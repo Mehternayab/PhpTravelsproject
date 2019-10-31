@@ -1,0 +1,21 @@
+2019-10-30 12:17:40,032 - TestRegistration -INFO - true
+2019-10-30 12:17:50,485 - TestLogin -INFO - true
+2019-10-30 12:18:11,484 - TestFlightSearch -INFO - Flights Results - From to DEL to MAA
+2019-10-30 12:18:27,398 - TestLogin -INFO - true
+2019-10-30 12:18:52,438 - TestHotelsSearch -INFO - true
+2019-10-30 15:18:41,591 - TestFlightSearch -INFO - 
+2019-10-30 15:29:00,857 - TestFlightSearch -INFO - true
+2019-10-30 17:20:01,643 - TestRegistration -INFO - true
+2019-10-30 17:20:18,683 - TestLogin -INFO - true
+2019-10-30 17:20:41,349 - TestFlightSearch -INFO - true
+2019-10-30 17:20:59,254 - TestLogin -INFO - true
+2019-10-30 17:21:16,146 - TestHotelsSearch -INFO - true
+2019-10-30 17:36:24,424 - TestRegistration -INFO - true
+2019-10-30 17:36:38,056 - TestLogin -INFO - true
+2019-10-30 17:37:23,283 - TestLogin -INFO - true
+2019-10-30 17:38:02,769 - TestHotelsSearch -INFO - true
+2019-10-30 18:21:08,317 - TestRegistration -INFO - true
+2019-10-30 18:21:22,073 - TestLogin -INFO - true
+2019-10-30 18:21:50,837 - TestFlightSearch -INFO - true
+2019-10-30 18:22:14,559 - TestLogin -INFO - true
+2019-10-30 18:22:47,821 - TestHotelsSearch -INFO - true
